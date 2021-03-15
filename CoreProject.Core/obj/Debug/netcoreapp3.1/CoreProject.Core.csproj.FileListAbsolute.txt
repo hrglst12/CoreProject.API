@@ -1,0 +1,8 @@
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Core\bin\Debug\netcoreapp3.1\CoreProject.Core.deps.json
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Core\bin\Debug\netcoreapp3.1\CoreProject.Core.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Core\bin\Debug\netcoreapp3.1\CoreProject.Core.pdb
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Core\obj\Debug\netcoreapp3.1\CoreProject.Core.AssemblyInfoInputs.cache
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Core\obj\Debug\netcoreapp3.1\CoreProject.Core.AssemblyInfo.cs
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Core\obj\Debug\netcoreapp3.1\CoreProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Core\obj\Debug\netcoreapp3.1\CoreProject.Core.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Core\obj\Debug\netcoreapp3.1\CoreProject.Core.pdb

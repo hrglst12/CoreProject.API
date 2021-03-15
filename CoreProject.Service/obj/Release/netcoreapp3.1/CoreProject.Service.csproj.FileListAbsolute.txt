@@ -1,0 +1,14 @@
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\bin\Release\netcoreapp3.1\CoreProject.Service.deps.json
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\bin\Release\netcoreapp3.1\CoreProject.Service.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\bin\Release\netcoreapp3.1\CoreProject.Service.pdb
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\bin\Release\netcoreapp3.1\CoreProject.Core.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\bin\Release\netcoreapp3.1\CoreProject.Data.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\bin\Release\netcoreapp3.1\CoreProject.Core.pdb
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\bin\Release\netcoreapp3.1\CoreProject.Data.pdb
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\obj\Release\netcoreapp3.1\CoreProject.Service.csprojAssemblyReference.cache
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\obj\Release\netcoreapp3.1\CoreProject.Service.AssemblyInfoInputs.cache
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\obj\Release\netcoreapp3.1\CoreProject.Service.AssemblyInfo.cs
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\obj\Release\netcoreapp3.1\CoreProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\obj\Release\netcoreapp3.1\CoreProject.Service.csproj.CopyComplete
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\obj\Release\netcoreapp3.1\CoreProject.Service.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Service\obj\Release\netcoreapp3.1\CoreProject.Service.pdb

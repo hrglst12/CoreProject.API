@@ -1,0 +1,15 @@
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\bin\Debug\netcoreapp3.1\CoreProject.Data.deps.json
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\bin\Debug\netcoreapp3.1\CoreProject.Data.runtimeconfig.json
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\bin\Debug\netcoreapp3.1\CoreProject.Data.runtimeconfig.dev.json
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\bin\Debug\netcoreapp3.1\CoreProject.Data.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\bin\Debug\netcoreapp3.1\CoreProject.Data.pdb
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\bin\Debug\netcoreapp3.1\CoreProject.Core.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\bin\Debug\netcoreapp3.1\CoreProject.Core.pdb
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\obj\Debug\netcoreapp3.1\CoreProject.Data.csprojAssemblyReference.cache
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\obj\Debug\netcoreapp3.1\CoreProject.Data.AssemblyInfoInputs.cache
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\obj\Debug\netcoreapp3.1\CoreProject.Data.AssemblyInfo.cs
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\obj\Debug\netcoreapp3.1\CoreProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\obj\Debug\netcoreapp3.1\CoreProject.Data.csproj.CopyComplete
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\obj\Debug\netcoreapp3.1\CoreProject.Data.dll
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\obj\Debug\netcoreapp3.1\CoreProject.Data.pdb
+C:\Users\Erdem\source\repos\CoreProject.API\CoreProject.Data\obj\Debug\netcoreapp3.1\CoreProject.Data.genruntimeconfig.cache
